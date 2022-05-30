@@ -64,9 +64,8 @@ Frontend Development      | [![HTML Badge](https://img.shields.io/badge/-HTML-23
 Mobile App Development     | [![JAVA Badge](https://img.shields.io/badge/-Java-239120?style=flat&logo=java&logoColor=white)](https://github.com/search?l=C%23&q=user%3Aramiyar2&type=Repositories) [![Flutter Badge](https://img.shields.io/badge/-Flutter-3776AB?style=flat&logo=Flutter&logoColor=white)](https://github.com/search?l=C%23&q=user%3Aramiyar2&type=Repositories) [![Dart Badge](https://img.shields.io/badge/-Dart-F7DF1E?style=flat&logo=Dart&logoColor=white)](https://github.com/search?l=C%23&q=user%3Aramiyar2&type=Repositories) 
 Software     | [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-239120?style=flat&logo=Adobe-Photoshop&logoColor=white)](https://github.com/search?l=C%23&q=user%3Aramiyar2&type=Repositories) [![Xd Badge](https://img.shields.io/badge/-Xd-3776AB?style=flat&logo=Adobe-Xd&logoColor=white)](https://github.com/search?l=C%23&q=user%3Aramiyar2&type=Repositories) [![figma Badge](https://img.shields.io/badge/-Figma-F7DF1E?style=flat&logo=figma&logoColor=white)](https://github.com/search?l=C%23&q=user%3Aramiyar2&type=Repositories) [![illustrator Badge](https://img.shields.io/badge/-illustrator-007396?style=flat&logo=Adobe-illustrator&logoColor=white)](https://github.com/search?l=C%23&q=user%3Aramiyar2&type=Repositories) 
 Other     | [![Arduino Badge](https://img.shields.io/badge/-Arduino-239120?style=flat&logo=Arduino&logoColor=white)](https://github.com/search?l=C%23&q=user%3Aramiyar2&type=Repositories) [![Mysql Badge](https://img.shields.io/badge/-Mysql-3776AB?style=flat&logo=Mysql&logoColor=white)](https://github.com/search?l=C%23&q=user%3Aramiyar2&type=Repositories) [![firebase Badge](https://img.shields.io/badge/-firebase-F7DF1E?style=flat&logo=firebase&logoColor=white)](https://github.com/search?l=C%23&q=user%3Aramiyar2&type=Repositories)
-  
-  
-<br><br>
+ 
+<br>
 
 ## 📊 Github Stats
 
