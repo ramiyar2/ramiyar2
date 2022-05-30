@@ -79,5 +79,5 @@ Other     | [![Arduino Badge](https://img.shields.io/badge/-Arduino-239120?style
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiyar2&layout=compact&theme=blue-green&hide_border=true)](http://ramiyar.com)
 
 ## 🐍 oh! snake eating my contribution 
-![snake gif](https://github.com/ramiyar2/ramiyar2/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/ramiyar2/ramiyar2/blob/output/github-contribution-grid-snake.svg)
 
