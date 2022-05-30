@@ -69,11 +69,11 @@ Other     | [![Arduino Badge](https://img.shields.io/badge/-Arduino-239120?style
 
 ## 📊 Github Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramiyar2&theme=blue-green&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramiyar2&theme=blue-green&hide_border=true)](http://ramiyar.com)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=ramiyar2&show_icons=true&theme=blue-green&locale=en)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=ramiyar2&show_icons=true&theme=blue-green&locale=en&hide_border=true)](http://ramiyar.com)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiyar2&layout=compact&theme=blue-green&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiyar2&layout=compact&theme=blue-green&hide_border=true)](http://ramiyar.com)
