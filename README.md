@@ -80,3 +80,5 @@ Other     | [![Arduino Badge](https://img.shields.io/badge/-Arduino-239120?style
 
 ## 🐍 oh! snake eating my contribution 
 ![snake gif](https://github.com/ramiyar2/ramiyar2/blob/output/github-contribution-grid-snake.gif)
+  
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
