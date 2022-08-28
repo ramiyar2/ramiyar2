@@ -1,6 +1,6 @@
 <h3 align="center">
   
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+![header](https://user-images.githubusercontent.com/56196099/187057315-4329f188-1611-4870-ad01-d80c6b580d9b.png)
 
 <h1 align="center">Hi 👋, I'm Ramiyar</h1>
 
